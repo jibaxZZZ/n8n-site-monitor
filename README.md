@@ -31,7 +31,7 @@ A lightweight, fully open-source uptime monitoring dashboard powered by **n8n**,
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/n8n-site-monitor
+https://github.com/jibaxZZZ/n8n-site-monitor
 
 # Launch the backend
 cd backend
