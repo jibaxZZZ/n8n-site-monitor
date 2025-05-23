@@ -1,0 +1,401 @@
+[
+  {
+    "id": "https://google.com",
+    "status": 200,
+    "responseTime": 180,
+    "timestamp": "2025-05-23T17:10:50.325Z",
+    "history": [
+      {
+        "timestamp": "2025-05-22T11:00:00Z",
+        "status": 200,
+        "responseTime": 180
+      },
+      {
+        "timestamp": "2025-05-22T18:00:00Z",
+        "status": 200,
+        "responseTime": 195
+      },
+      {
+        "timestamp": "2025-05-23T09:00:00Z",
+        "status": 503,
+        "responseTime": 0
+      },
+      {
+        "timestamp": "2025-05-23T10:00:00Z",
+        "status": 200,
+        "responseTime": 150
+      },
+      {
+        "timestamp": "2025-05-23T15:37:20.327Z",
+        "status": 200,
+        "responseTime": 171
+      },
+      {
+        "timestamp": "2025-05-23T15:37:40.316Z",
+        "status": 200,
+        "responseTime": 177
+      },
+      {
+        "timestamp": "2025-05-23T15:44:00.316Z",
+        "status": 200,
+        "responseTime": 180
+      },
+      {
+        "timestamp": "2025-05-23T15:51:40.321Z",
+        "status": 200,
+        "responseTime": 180
+      },
+      {
+        "timestamp": "2025-05-23T15:52:00.322Z",
+        "status": 200,
+        "responseTime": 181
+      },
+      {
+        "timestamp": "2025-05-23T15:52:10.358Z",
+        "status": 200,
+        "responseTime": 217
+      },
+      {
+        "timestamp": "2025-05-23T15:52:40.304Z",
+        "status": 200,
+        "responseTime": 174
+      },
+      {
+        "timestamp": "2025-05-23T15:58:40.310Z",
+        "status": 200,
+        "responseTime": 173
+      },
+      {
+        "timestamp": "2025-05-23T16:03:50.340Z",
+        "status": 200,
+        "responseTime": 189
+      },
+      {
+        "timestamp": "2025-05-23T16:04:10.349Z",
+        "status": 200,
+        "responseTime": 185
+      },
+      {
+        "timestamp": "2025-05-23T16:04:20.335Z",
+        "status": 200,
+        "responseTime": 186
+      },
+      {
+        "timestamp": "2025-05-23T16:05:20.323Z",
+        "status": 200,
+        "responseTime": 175
+      },
+      {
+        "timestamp": "2025-05-23T16:06:10.341Z",
+        "status": 200,
+        "responseTime": 180
+      },
+      {
+        "timestamp": "2025-05-23T16:06:20.331Z",
+        "status": 200,
+        "responseTime": 173
+      },
+      {
+        "timestamp": "2025-05-23T16:09:00.323Z",
+        "status": 200,
+        "responseTime": 174
+      },
+      {
+        "timestamp": "2025-05-23T16:12:30.418Z",
+        "status": 200,
+        "responseTime": 200
+      },
+      {
+        "timestamp": "2025-05-23T16:13:40.326Z",
+        "status": 200,
+        "responseTime": 180
+      },
+      {
+        "timestamp": "2025-05-23T16:51:30.314Z",
+        "status": 200,
+        "responseTime": 174
+      },
+      {
+        "timestamp": "2025-05-23T16:52:20.314Z",
+        "status": 200,
+        "responseTime": 179
+      },
+      {
+        "timestamp": "2025-05-23T16:56:30.374Z",
+        "status": 200,
+        "responseTime": 177
+      },
+      {
+        "timestamp": "2025-05-23T17:10:50.325Z",
+        "status": 200,
+        "responseTime": 180
+      }
+    ]
+  },
+  {
+    "id": "https://github.com",
+    "status": 200,
+    "responseTime": 134,
+    "timestamp": "2025-05-23T17:10:50.463Z",
+    "history": [
+      {
+        "timestamp": "2025-05-22T12:00:00Z",
+        "status": 200,
+        "responseTime": 90
+      },
+      {
+        "timestamp": "2025-05-22T20:00:00Z",
+        "status": 200,
+        "responseTime": 100
+      },
+      {
+        "timestamp": "2025-05-23T08:00:00Z",
+        "status": 200,
+        "responseTime": 105
+      },
+      {
+        "timestamp": "2025-05-23T11:00:00Z",
+        "status": 200,
+        "responseTime": 98
+      },
+      {
+        "timestamp": "2025-05-23T15:37:20.485Z",
+        "status": 200,
+        "responseTime": 156
+      },
+      {
+        "timestamp": "2025-05-23T15:37:40.449Z",
+        "status": 200,
+        "responseTime": 130
+      },
+      {
+        "timestamp": "2025-05-23T15:44:00.454Z",
+        "status": 200,
+        "responseTime": 134
+      },
+      {
+        "timestamp": "2025-05-23T15:51:40.456Z",
+        "status": 200,
+        "responseTime": 131
+      },
+      {
+        "timestamp": "2025-05-23T15:52:00.462Z",
+        "status": 200,
+        "responseTime": 136
+      },
+      {
+        "timestamp": "2025-05-23T15:52:10.500Z",
+        "status": 200,
+        "responseTime": 138
+      },
+      {
+        "timestamp": "2025-05-23T15:52:40.457Z",
+        "status": 200,
+        "responseTime": 150
+      },
+      {
+        "timestamp": "2025-05-23T15:58:40.460Z",
+        "status": 200,
+        "responseTime": 146
+      },
+      {
+        "timestamp": "2025-05-23T16:03:50.477Z",
+        "status": 200,
+        "responseTime": 133
+      },
+      {
+        "timestamp": "2025-05-23T16:04:10.493Z",
+        "status": 200,
+        "responseTime": 140
+      },
+      {
+        "timestamp": "2025-05-23T16:04:20.477Z",
+        "status": 200,
+        "responseTime": 138
+      },
+      {
+        "timestamp": "2025-05-23T16:05:20.460Z",
+        "status": 200,
+        "responseTime": 134
+      },
+      {
+        "timestamp": "2025-05-23T16:06:10.475Z",
+        "status": 200,
+        "responseTime": 132
+      },
+      {
+        "timestamp": "2025-05-23T16:06:20.471Z",
+        "status": 200,
+        "responseTime": 136
+      },
+      {
+        "timestamp": "2025-05-23T16:09:00.459Z",
+        "status": 200,
+        "responseTime": 134
+      },
+      {
+        "timestamp": "2025-05-23T16:12:30.566Z",
+        "status": 200,
+        "responseTime": 144
+      },
+      {
+        "timestamp": "2025-05-23T16:13:40.467Z",
+        "status": 200,
+        "responseTime": 137
+      },
+      {
+        "timestamp": "2025-05-23T16:51:30.445Z",
+        "status": 200,
+        "responseTime": 127
+      },
+      {
+        "timestamp": "2025-05-23T16:52:20.453Z",
+        "status": 200,
+        "responseTime": 135
+      },
+      {
+        "timestamp": "2025-05-23T16:56:30.499Z",
+        "status": 200,
+        "responseTime": 122
+      },
+      {
+        "timestamp": "2025-05-23T17:10:50.463Z",
+        "status": 200,
+        "responseTime": 134
+      }
+    ]
+  },
+  {
+    "id": "https://ffcf-2a01-e0a-1ff-b170-5c51-6cdf-af84-634e.ngrok-free.app",
+    "status": 200,
+    "responseTime": 115,
+    "timestamp": "2025-05-23T17:10:50.581Z",
+    "history": [
+      {
+        "timestamp": "2025-05-22T12:00:00Z",
+        "status": 200,
+        "responseTime": 90
+      },
+      {
+        "timestamp": "2025-05-22T20:00:00Z",
+        "status": 200,
+        "responseTime": 100
+      },
+      {
+        "timestamp": "2025-05-23T08:00:00Z",
+        "status": 200,
+        "responseTime": 105
+      },
+      {
+        "timestamp": "2025-05-23T11:00:00Z",
+        "status": 200,
+        "responseTime": 98
+      },
+      {
+        "timestamp": "2025-05-23T15:37:20.618Z",
+        "status": 200,
+        "responseTime": 128
+      },
+      {
+        "timestamp": "2025-05-23T15:37:40.568Z",
+        "status": 200,
+        "responseTime": 115
+      },
+      {
+        "timestamp": "2025-05-23T15:44:00.577Z",
+        "status": 200,
+        "responseTime": 119
+      },
+      {
+        "timestamp": "2025-05-23T15:51:40.636Z",
+        "status": 200,
+        "responseTime": 177
+      },
+      {
+        "timestamp": "2025-05-23T15:52:00.585Z",
+        "status": 200,
+        "responseTime": 120
+      },
+      {
+        "timestamp": "2025-05-23T15:52:10.665Z",
+        "status": 200,
+        "responseTime": 162
+      },
+      {
+        "timestamp": "2025-05-23T15:52:40.580Z",
+        "status": 200,
+        "responseTime": 119
+      },
+      {
+        "timestamp": "2025-05-23T15:58:40.584Z",
+        "status": 200,
+        "responseTime": 119
+      },
+      {
+        "timestamp": "2025-05-23T16:03:50.600Z",
+        "status": 200,
+        "responseTime": 120
+      },
+      {
+        "timestamp": "2025-05-23T16:04:10.618Z",
+        "status": 200,
+        "responseTime": 120
+      },
+      {
+        "timestamp": "2025-05-23T16:04:20.599Z",
+        "status": 200,
+        "responseTime": 118
+      },
+      {
+        "timestamp": "2025-05-23T16:05:20.574Z",
+        "status": 200,
+        "responseTime": 110
+      },
+      {
+        "timestamp": "2025-05-23T16:06:10.615Z",
+        "status": 200,
+        "responseTime": 135
+      },
+      {
+        "timestamp": "2025-05-23T16:06:20.595Z",
+        "status": 200,
+        "responseTime": 120
+      },
+      {
+        "timestamp": "2025-05-23T16:09:00.582Z",
+        "status": 200,
+        "responseTime": 120
+      },
+      {
+        "timestamp": "2025-05-23T16:12:30.691Z",
+        "status": 200,
+        "responseTime": 120
+      },
+      {
+        "timestamp": "2025-05-23T16:13:40.594Z",
+        "status": 200,
+        "responseTime": 123
+      },
+      {
+        "timestamp": "2025-05-23T16:51:30.563Z",
+        "status": 200,
+        "responseTime": 116
+      },
+      {
+        "timestamp": "2025-05-23T16:52:20.566Z",
+        "status": 200,
+        "responseTime": 110
+      },
+      {
+        "timestamp": "2025-05-23T16:56:30.632Z",
+        "status": 200,
+        "responseTime": 130
+      },
+      {
+        "timestamp": "2025-05-23T17:10:50.581Z",
+        "status": 200,
+        "responseTime": 115
+      }
+    ]
+  }
+]
